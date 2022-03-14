@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinuxManager", "LinuxManager\LinuxManager.csproj", "{A92A049E-52D6-46AD-B0DA-16D858FCA808}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinuxHost", "LinuxHost\LinuxHost.csproj", "{2141982E-8549-4FA4-9EF0-3719D90E97C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LH_Lib", "LH_Lib\LH_Lib.csproj", "{302155DE-7F39-40B6-B08E-451FB21A1B3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A92A049E-52D6-46AD-B0DA-16D858FCA808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A92A049E-52D6-46AD-B0DA-16D858FCA808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A92A049E-52D6-46AD-B0DA-16D858FCA808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A92A049E-52D6-46AD-B0DA-16D858FCA808}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2141982E-8549-4FA4-9EF0-3719D90E97C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2141982E-8549-4FA4-9EF0-3719D90E97C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2141982E-8549-4FA4-9EF0-3719D90E97C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2141982E-8549-4FA4-9EF0-3719D90E97C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{302155DE-7F39-40B6-B08E-451FB21A1B3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{302155DE-7F39-40B6-B08E-451FB21A1B3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{302155DE-7F39-40B6-B08E-451FB21A1B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{302155DE-7F39-40B6-B08E-451FB21A1B3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0832BBCD-0CC0-464A-A199-14A7B6ABCA7A}
+	EndGlobalSection
+EndGlobal
